@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Mafaldim
-- 👀 I’m  interested in data science
+- 👋 Hi, I’m Dee
+- 👀 I’m  interested in anything data science/machine learning/data visualisation
 - 🌱 I’m currently learning graph analysis
 - 💞️ I’m looking to collaborate on anything interested data science!
 
